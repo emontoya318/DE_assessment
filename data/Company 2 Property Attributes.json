@@ -1,0 +1,67 @@
+[
+ {
+  "ID":8,
+  "Unnamed: 0":null,
+  "meter_type":"Natural Gas",
+  "meter_id":74912627,
+  "use_type":"office",
+  "square_footage_value":72400,
+  "units":"Square Feet",
+  "lastupdateddate":"2021-02-19T09:41:59.000-05:00",
+  "createddate":"2021-02-19T09:41:59.000-05:00",
+  "currentasof":"2020-12-09",
+  "PUID":"8-1"
+ },
+ {
+  "ID":8,
+  "Unnamed: 0":null,
+  "meter_type":"Electric",
+  "meter_id":74912628,
+  "use_type":"office",
+  "square_footage_value":72401,
+  "units":"Square Feet",
+  "lastupdateddate":"2021-02-19T09:41:59.000-05:00",
+  "createddate":"2021-02-19T09:41:59.000-05:00",
+  "currentasof":"2020-12-10",
+  "PUID":"8-2"
+ },
+ {
+  "ID":8,
+  "Unnamed: 0":null,
+  "meter_type":"Municipally Supplied Potable Water - Indoor",
+  "meter_id":74912686,
+  "use_type":"office",
+  "square_footage_value":72402,
+  "units":"Square Feet",
+  "lastupdateddate":"2021-02-19T09:41:59.000-05:00",
+  "createddate":"2021-02-19T09:41:59.000-05:00",
+  "currentasof":"2020-12-11",
+  "PUID":"8-3"
+ },
+ {
+  "ID":8,
+  "Unnamed: 0":null,
+  "meter_type":"Municipally Supplied Potable Water - Indoor",
+  "meter_id":74912687,
+  "use_type":"office",
+  "square_footage_value":72403,
+  "units":"Square Feet",
+  "lastupdateddate":"2021-02-19T09:41:59.000-05:00",
+  "createddate":"2021-02-19T09:41:59.000-05:00",
+  "currentasof":"2020-12-12",
+  "PUID":"8-4"
+ },
+ {
+  "ID":8,
+  "Unnamed: 0":null,
+  "meter_type":"Municipally Supplied Potable Water - Indoor",
+  "meter_id":74912688,
+  "use_type":"dataCenter",
+  "square_footage_value":2600,
+  "units":"Square Feet",
+  "lastupdateddate":"2020-03-13T11:44:35.000-04:00",
+  "createddate":"2020-03-13T11:44:35.000-04:00",
+  "currentasof":"1921-01-01",
+  "PUID":"8-2"
+ }
+]

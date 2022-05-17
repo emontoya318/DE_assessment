@@ -1,0 +1,192 @@
+[
+ {
+  "ID":1,
+  "use_type":"office",
+  "square_footage_value":244698,
+  "units":"Square Feet",
+  "lastupdateddate":"2008-02-08T12:53:39.000-05:00",
+  "createddate":"2008-02-08T12:53:39.000-05:00",
+  "currentasof":"1978-01-01",
+  "PUID":"1-1"
+ },
+ {
+  "ID":1,
+  "use_type":"other",
+  "square_footage_value":15098,
+  "units":"Square Feet",
+  "lastupdateddate":"2011-06-14T14:53:38.000-04:00",
+  "createddate":"2005-05-31T13:06:31.000-04:00",
+  "currentasof":"1978-01-01",
+  "PUID":"1-2"
+ },
+ {
+  "ID":1,
+  "use_type":"bankBranch",
+  "square_footage_value":5447,
+  "units":"Square Feet",
+  "lastupdateddate":"2021-01-19T09:42:45.000-05:00",
+  "createddate":"2018-06-19T17:07:37.000-04:00",
+  "currentasof":"1978-01-01",
+  "PUID":"1-3"
+ },
+ {
+  "ID":2,
+  "use_type":"multifamilyHousing",
+  "square_footage_value":336392,
+  "units":"Square Feet",
+  "lastupdateddate":"2020-05-01T09:25:27.000-04:00",
+  "createddate":"2020-05-01T09:25:27.000-04:00",
+  "currentasof":"2010-01-01",
+  "PUID":"2-1"
+ },
+ {
+  "ID":3,
+  "use_type":"multifamilyHousing",
+  "square_footage_value":45768,
+  "units":"Square Feet",
+  "lastupdateddate":"2020-04-08T11:58:28.000-04:00",
+  "createddate":"2020-02-25T13:38:50.000-05:00",
+  "currentasof":"2005-01-01",
+  "PUID":"3-1"
+ },
+ {
+  "ID":4,
+  "use_type":"multifamilyHousing",
+  "square_footage_value":189985,
+  "units":"Square Feet",
+  "lastupdateddate":"2020-07-07T17:16:41.000-04:00",
+  "createddate":"2020-04-09T19:40:53.000-04:00",
+  "currentasof":"1991-01-01",
+  "PUID":"4-1"
+ },
+ {
+  "ID":5,
+  "use_type":"multifamilyHousing",
+  "square_footage_value":64145,
+  "units":"Square Feet",
+  "lastupdateddate":"2021-01-29T15:14:39.000-05:00",
+  "createddate":"2021-01-29T15:14:39.000-05:00",
+  "currentasof":"2008-01-01",
+  "PUID":"5-1"
+ },
+ {
+  "ID":6,
+  "use_type":"multifamilyHousing",
+  "square_footage_value":221381,
+  "units":"Square Feet",
+  "lastupdateddate":"2020-04-06T19:05:09.000-04:00",
+  "createddate":"2020-04-06T19:05:09.000-04:00",
+  "currentasof":"1998-01-01",
+  "PUID":"6-1"
+ },
+ {
+  "ID":7,
+  "use_type":"manufacturingIndustrialPlant",
+  "square_footage_value":127108,
+  "units":"Square Feet",
+  "lastupdateddate":"2020-03-24T14:34:43.000-04:00",
+  "createddate":"2020-03-24T14:17:43.000-04:00",
+  "currentasof":"2001-01-01",
+  "PUID":"7-1"
+ },
+ {
+  "ID":10,
+  "use_type":"stripMall",
+  "square_footage_value":198889,
+  "units":"Square Feet",
+  "lastupdateddate":"2020-11-02T10:54:09.000-05:00",
+  "createddate":"2020-10-13T18:43:10.000-04:00",
+  "currentasof":"2020-05-31",
+  "PUID":"10-1"
+ },
+ {
+  "ID":11,
+  "use_type":"manufacturingIndustrialPlant",
+  "square_footage_value":127108,
+  "units":"Square Feet",
+  "lastupdateddate":"2020-03-24T14:37:26.000-04:00",
+  "createddate":"2020-03-24T14:37:26.000-04:00",
+  "currentasof":"2001-01-01",
+  "PUID":"11-1"
+ },
+ {
+  "ID":12,
+  "use_type":"stripMall",
+  "square_footage_value":74246,
+  "units":"Square Feet",
+  "lastupdateddate":"2020-11-23T16:26:23.000-05:00",
+  "createddate":"2020-10-13T18:37:57.000-04:00",
+  "currentasof":"2019-05-31",
+  "PUID":"12-1"
+ },
+ {
+  "ID":13,
+  "use_type":"retail",
+  "square_footage_value":175165,
+  "units":"Square Feet",
+  "lastupdateddate":"2020-05-19T22:21:22.000-04:00",
+  "createddate":"2020-05-19T22:21:22.000-04:00",
+  "currentasof":"1964-01-01",
+  "PUID":"13-1"
+ },
+ {
+  "ID":14,
+  "use_type":"multifamilyHousing",
+  "square_footage_value":63000,
+  "units":"Square Feet",
+  "lastupdateddate":"2021-02-23T09:46:55.000-05:00",
+  "createddate":"2021-02-23T09:46:55.000-05:00",
+  "currentasof":"1995-01-01",
+  "PUID":"14-1"
+ },
+ {
+  "ID":15,
+  "use_type":"manufacturingIndustrialPlant",
+  "square_footage_value":151992,
+  "units":"Square Feet",
+  "lastupdateddate":"2020-03-24T14:44:21.000-04:00",
+  "createddate":"2020-03-24T14:44:21.000-04:00",
+  "currentasof":"2004-01-01",
+  "PUID":"15-1"
+ },
+ {
+  "ID":16,
+  "use_type":"stripMall",
+  "square_footage_value":214688,
+  "units":"Square Feet",
+  "lastupdateddate":"2020-11-23T16:48:59.000-05:00",
+  "createddate":"2020-10-13T18:02:36.000-04:00",
+  "currentasof":"2019-05-31",
+  "PUID":"16-1"
+ },
+ {
+  "ID":17,
+  "use_type":"manufacturingIndustrialPlant",
+  "square_footage_value":108852,
+  "units":"Square Feet",
+  "lastupdateddate":"2020-03-24T14:47:33.000-04:00",
+  "createddate":"2020-03-24T14:47:33.000-04:00",
+  "currentasof":"2002-01-01",
+  "PUID":"17-1"
+ },
+ {
+  "ID":18,
+  "use_type":"manufacturingIndustrialPlant",
+  "square_footage_value":258270,
+  "units":"Square Feet",
+  "lastupdateddate":"2020-03-24T14:45:54.000-04:00",
+  "createddate":"2020-03-24T14:45:54.000-04:00",
+  "currentasof":"2001-01-01",
+  "PUID":"18-1"
+ },
+ {
+  "ID":19,
+  "use_type":"enclosedMall",
+  "square_footage_value":78094,
+  "units":"Square Feet",
+  "lastupdateddate":"2020-08-04T13:45:19.000-04:00",
+  "createddate":"2020-08-04T13:45:19.000-04:00",
+  "currentasof":"1900-01-01",
+  "PUID":"19-1"
+ }
+]
